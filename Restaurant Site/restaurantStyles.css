@@ -1,0 +1,36 @@
+.menu ul li a:link{
+	text-decoration: underline;
+	color: blue;
+}
+.menu ul li a:visited{
+	color:#000000;
+}
+.menu ul li a:hover{
+	font-weight: bold;
+}
+.menu ul li a:active{
+  text-decoration: none;
+}
+.footer {
+    text-align: center;
+    min-width: 600px;
+}
+h1{
+      font-family:Verdana;
+      text-align: center;
+      min-width: 600px;
+}
+hr{
+	min-width: 800px;"
+}
+.jumbotron{
+    color: #20B2AA;
+    background-color: #FAFAD2;
+    text-align: center;
+    min-width: 600px;
+}
+.container {
+    background-color: #20B2AA;
+    min-width: 600px; 
+    width:75%;
+}

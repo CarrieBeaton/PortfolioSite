@@ -1,0 +1,25 @@
+  th {
+      font-weight: bold;
+      text-align: center;
+      background: LightSlateGray;
+   }
+
+  td {
+      text-align: center;
+      font-style:italic;
+      border:1px solid black;
+   }
+
+  table{
+    table-layout: fixed;
+    margin: 0 auto;
+    border-collapse:collapse;
+    width:75%;
+    border-style: solid;
+    border: 1px solid black;
+    background: #CC0000;
+  }
+
+  .table-striped > tbody > tr:nth-child(odd) > td{
+    background-color: #6C9AEE;
+  }
